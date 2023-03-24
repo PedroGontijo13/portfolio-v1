@@ -40,7 +40,7 @@ const Nav = () => {
   
   return (
     <NavContainer theme={theme}>
-        <h1>Hiroki</h1>
+        <h1>Pedro</h1>
         <ul>
             <li>
                 <Link to={"/"}>Home</Link>

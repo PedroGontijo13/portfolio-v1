@@ -32,8 +32,8 @@ const ProjectHeading = ({ title, content }) => {
   return (
     <ProjectHeadingWrapper>
       <h2>
-        Project that i <br />
-        has been <span>done</span>
+        Project that I <br />
+        have been <span>done</span>
       </h2>
       <img src={arrow} alt="" />
     </ProjectHeadingWrapper>
